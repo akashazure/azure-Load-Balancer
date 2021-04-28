@@ -2,7 +2,7 @@
 
 az group create \
 --name RG-11-LB \
---location westeurope
+--location eastus
 
 az network vnet create \
   --resource-group RG-11-LB \
